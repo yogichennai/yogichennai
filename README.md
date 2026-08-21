@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
   <a href="https://www.linkedin.com/in/yogeshbmehta/"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20B.%20Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://yogeshbmehta.medium.com/"><img src="https://img.shields.io/badge/Medium-@yogeshbmehta-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20LLMs-1e293b?style=for-the-badge&logo=openai&logoColor=10b981" />
