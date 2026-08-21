@@ -42,7 +42,7 @@
       <p><code>Vision OCR</code> • <code>NLP Extraction</code> • <code>Tabular ERP</code> • <code>Graph Analytics</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/yogichennai/claude-skills-master">claude-skills-master</a></h4>
+      <h4>⚡ <a href="https://github.com/yogichennai/Claude-Skills-Master-by-YBM">Claude Skills Master by YBM</a></h4>
       <p><b>Master Suite of 900+ Modular AI Agent Skills</b></p>
       <p>Comprehensive modular skill architecture empowering AI agents across full-stack coding, API testing, legal compliance, UX design, and autonomous orchestration.</p>
       <p><code>Agentic AI</code> • <code>TypeScript</code> • <code>Claude Code</code> • <code>MCP</code></p>
