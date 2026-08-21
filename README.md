@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hi there, I'm Yogesh Mehta 👋
-### ⚡ AI Systems Engineer & Agentic Architecture Explorer ⚡
+### ⚡ AI Systems Architect & Agentic Intelligence Engineer ⚡
 
 <p align="center">
   <a href="https://github.com/yogichennai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Next-Gen+Autonomous+AI+Agents;Architecting+LLM+%2B+RAG+Intelligence+Systems;Crafting+Modern+Full-Stack+Web+Applications;Orchestrating+900%2B+Specialized+AI+Skills" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Next-Gen+Autonomous+AI+Agents;Architecting+Multimodal+Forensic+Intelligence;Orchestrating+900%2B+Specialized+AI+Skills;Crafting+Modern+Full-Stack+Web+Applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,22 +22,50 @@
 
 ### 🚀 About Me
 
-- 🤖 **Specialized in Agentic AI**: Architecting multi-agent ecosystems, tool orchestration, and autonomous execution pipelines.
-- 🧠 **LLMs & Prompt Engineering**: Deep knowledge of system prompt engineering, RAG pipelines, and model evaluation across Claude, Gemini, OpenAI, and open-source foundation models.
-- ⚡ **Extensive Skills Suite**: Managing and orchestrating a modular library of **900+ domain-specific AI skills & workflows**.
-- 🛠️ **Systems & Full-Stack**: Passionate about high-performance modern web apps, TypeScript/Python toolchains, and Obsidian PKM knowledge graph integration.
+- 🤖 **Autonomous Agentic Systems**: Architecting production-grade multi-agent networks, autonomous tool orchestration, and self-healing agent pipelines.
+- 🔍 **Multimodal Forensic Intelligence**: Creator of **Veritas Forensics**, bridging unstructured vision/NLP evidence (Invoices, WhatsApp, Override Logs) with deterministic ERP banking ledgers for cross-modal fraud detection.
+- ⚡ **Comprehensive AI Skills Engine**: Orchestrating a curated modular suite of **900+ domain-specific AI skills** across development, marketing, legal, and operational workflows.
+- 🧠 **Context & Prompt Engineering**: Advanced prompt architecture, MCP (Model Context Protocol) tool integration, RAG systems, and structured reasoning pipelines.
+- 🛠️ **Systems & Full-Stack**: Modern full-stack engineering with TypeScript, Python, React/Next.js, FastAPI, and Obsidian knowledge graph architectures.
 
 ---
 
-### 🌟 Featured Projects & Repositories
+### 🌟 Featured Flagship Repositories
 
-- 🔍 [**Veritas Forensics by YBM**](https://github.com/yogichennai/Veritas-Forensics) — Multimodal Financial Anomaly Detection & Fraud Investigation Framework (Vision, Tabular ERP & Conversational Evidence).
-- ⚡ [**claude-skills-master**](https://github.com/yogichennai/claude-skills-master) — Master repository of modular Agentic AI skills and autonomous workflow extensions.
-- 🤖 [**ai-job-search**](https://github.com/yogichennai/ai-job-search) — The job search that runs on your machine: AI job application framework built on Claude Code.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/yogichennai/Veritas-Forensics">Veritas Forensics by YBM</a></h4>
+      <p><b>Multimodal Financial Anomaly Detection & Fraud Investigation Framework</b></p>
+      <p>Cross-references raw PDF invoices, WhatsApp communication transcripts, ERP vendor master records, and bank statements to detect ghost vendors, circular billing, and collusion trails.</p>
+      <p><code>Vision OCR</code> • <code>NLP Extraction</code> • <code>Tabular ERP</code> • <code>Graph Analytics</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/yogichennai/claude-skills-master">claude-skills-master</a></h4>
+      <p><b>Master Suite of 900+ Modular AI Agent Skills</b></p>
+      <p>Comprehensive modular skill architecture empowering AI agents across full-stack coding, API testing, legal compliance, UX design, and autonomous orchestration.</p>
+      <p><code>Agentic AI</code> • <code>TypeScript</code> • <code>Claude Code</code> • <code>MCP</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/yogichennai/ai-job-search">ai-job-search</a></h4>
+      <p><b>Local AI Job Search & Evaluation Framework</b></p>
+      <p>Autonomous AI job application assistant running on Claude Code that parses job requirements, evaluates candidate fit, tailors resumes, and drafts personalized outreach.</p>
+      <p><code>Claude Code</code> • <code>Automation</code> • <code>Python</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📅 <a href="https://github.com/yogichennai/YBM-Jain-Panchang">YBM-Jain-Panchang</a></h4>
+      <p><b>Digital Astronomical & Calendar Intelligence Platform</b></p>
+      <p>Accurate astronomical calculation engine and interactive calendar platform delivering precise daily timings, tithis, and festival schedules.</p>
+      <p><code>TypeScript</code> • <code>Calculations</code> • <code>Web UI</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Tech Stack & Capabilities Matrix
 
 <div align="center">
 
@@ -49,7 +77,7 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logoColor=white)
 ![MCP Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=json&logoColor=white)
 
-#### 💻 Programming Languages & Core
+#### 💻 Core Languages & Runtimes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -90,7 +118,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect & Collaborate
 
 <div align="center">
 
