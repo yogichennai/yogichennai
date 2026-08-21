@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Yogesh Mehta 👋
+# Hi there, I'm Yogesh B. Mehta 👋
 ### ⚡ AI Systems Architect & Agentic Intelligence Engineer ⚡
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
-  <a href="https://www.linkedin.com/in/yogeshbmehta/"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yogeshbmehta/"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20B.%20Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://yogeshbmehta.medium.com/"><img src="https://img.shields.io/badge/Medium-@yogeshbmehta-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20LLMs-1e293b?style=for-the-badge&logo=openai&logoColor=10b981" />
   <img src="https://img.shields.io/badge/Workflow-Claude%20Code%20%26%20Gemini-1e293b?style=for-the-badge&logo=anthropic&logoColor=f59e0b" />
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh%20Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshbmehta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh%20B.%20Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshbmehta/)
 [![Medium](https://img.shields.io/badge/Medium-@yogeshbmehta-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yogeshbmehta.medium.com/)
 [![Email](https://img.shields.io/badge/Email-yogeshbmehta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshbmehta@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yogichennai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogichennai)
