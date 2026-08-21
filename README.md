@@ -28,6 +28,14 @@
 
 ---
 
+### 🌟 Featured Projects & Repositories
+
+- 🔍 [**Veritas Forensics by YBM**](https://github.com/yogichennai/Veritas-Forensics) — Multimodal Financial Anomaly Detection & Fraud Investigation Framework (Vision, Tabular ERP & Conversational Evidence).
+- ⚡ [**claude-skills-master**](https://github.com/yogichennai/claude-skills-master) — Master repository of modular Agentic AI skills and autonomous workflow extensions.
+- 🤖 [**ai-job-search**](https://github.com/yogichennai/ai-job-search) — The job search that runs on your machine: AI job application framework built on Claude Code.
+
+---
+
 ### 🛠️ Tech Stack & Capabilities
 
 <div align="center">
