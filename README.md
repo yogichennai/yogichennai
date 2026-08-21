@@ -79,12 +79,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yogichennai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yogichennai&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=yogichennai&theme=tokyonight&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yogichennai&theme=tokyonight&layout=compact&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogichennai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogichennai&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
