@@ -50,10 +50,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/yogichennai/ai-job-search">ai-job-search</a></h4>
-      <p><b>Local AI Job Search & Evaluation Framework</b></p>
-      <p>Autonomous AI job application assistant running on Claude Code that parses job requirements, evaluates candidate fit, tailors resumes, and drafts personalized outreach.</p>
-      <p><code>Claude Code</code> • <code>Automation</code> • <code>Python</code></p>
+      <h4>📚 <a href="https://github.com/yogichennai/awesome-llm-apps">awesome-llm-apps</a></h4>
+      <p><b>Curated LLM Applications & AI Agent Architectures</b></p>
+      <p>Collection of production-grade LLM applications with autonomous agents and RAG pipelines using Anthropic Claude, Google Gemini, and OpenAI.</p>
+      <p><code>LLM Apps</code> • <code>AI Agents</code> • <code>RAG</code> • <code>Multi-Model</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>📅 <a href="https://github.com/yogichennai/YBM-Jain-Panchang">YBM-Jain-Panchang</a></h4>
