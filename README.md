@@ -68,13 +68,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/yogichennai/awesome-llm-apps">awesome-llm-apps</a></h4>
-      <p><b>Curated LLM Applications & AI Agent Architectures</b></p>
-      <p>Collection of production-grade LLM applications with autonomous agents and RAG pipelines using Anthropic Claude, Google Gemini, and OpenAI.</p>
+      <h4>📅 <a href="https://github.com/yogichennai/YBM-Jain-Panchang">YBM-Jain-Panchang</a></h4>
+      <p><b>Digital Astronomical & Calendar Intelligence Platform</b></p>
+      <p>Accurate astronomical calculation engine and interactive calendar platform delivering precise daily timings, tithis, and festival schedules.</p>
       <p>
-        <img src="https://img.shields.io/badge/RAG-Pipelines-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Multi--Model-Support-emerald?style=flat-square" />
-        <img src="https://img.shields.io/badge/Curated-List-crimson?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-Engine-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Astronomical-Calculations-indigo?style=flat-square" />
+        <img src="https://img.shields.io/badge/Interactive-Web_UI-emerald?style=flat-square" />
       </p>
     </td>
   </tr>
