@@ -26,7 +26,7 @@
 - 🤖 **Autonomous Multi-Agent Architectures**: Engineering resilient multi-agent networks, dynamic tool routing, and self-healing LLM pipelines using **Claude Code**, **Google Gemini**, and **MCP (Model Context Protocol)**.
 - 🔍 **Multimodal Forensic Intelligence**: Creator of **Veritas Forensics**, bridging unstructured vision/NLP artifacts (Invoices, WhatsApp communication, override logs) with deterministic ERP banking ledgers for cross-modal fraud detection.
 - ⚡ **Domain Skills Engine**: Orchestrating **900+ modular agent skills** covering autonomous coding, API verification, automated governance, security auditing, and UX engineering.
-- 🍎 **Ecosystem & Tooling**: Author of **MacCraft**, an artisanal directory of 1,280+ macOS applications with 1-click Homebrew installations and live search.
+- 🍎 **Ecosystem & Tooling**: Author of **MacCraft by YBM**, an artisanal directory of 1,280+ macOS applications with 1-click Homebrew installations and live search.
 - 🧠 **Context & Prompt Engineering**: Specializing in context compression, structured reasoning chains, and production-grade RAG systems.
 
 ---
@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/yogichennai/mac-craft">MacCraft</a></h4>
+      <h4>⚡ <a href="https://github.com/yogichennai/mac-craft">MacCraft by YBM</a></h4>
       <p><b>Artisanal Curated macOS Toolbox & 1-Click Brew Cask Catalog</b></p>
       <p>A modernized, zero-ad directory of 1,280+ macOS apps and developer utilities with instant fuzzy search, tag filters, and 1-click Homebrew installation scripts.</p>
       <p>
