@@ -1,20 +1,25 @@
 <div align="center">
 
 # Hi there, I'm Yogesh B. Mehta 👋
-### ⚡ AI Systems Architect & Agentic Intelligence Engineer ⚡
+### ⚡ AI Systems Architect • Travel-Tech Strategist • Aviation Economist ⚡
 
 <p align="center">
   <a href="https://github.com/yogichennai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Architecting+Autonomous+Multi-Agent+Systems;Building+Multimodal+Forensic+Intelligence;Orchestrating+900%2B+Production+AI+Skills;Curating+Artisanal+macOS+%26+Developer+Tooling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Executive+Research+%26+Travel-Tech+Strategy;Architecting+Autonomous+Multi-Agent+Systems;Building+Multimodal+Forensic+Intelligence;Orchestrating+900%2B+Production+AI+Skills;Curating+Artisanal+macOS+%26+Developer+Tooling" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
+  <a href="https://yogesh-b-mehta.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio_&_Research_Archive-yogesh--b--mehta.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yogeshbmehta/"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20B.%20Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://yogeshbmehta.medium.com/"><img src="https://img.shields.io/badge/Medium-@yogeshbmehta-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20MCP-0f172a?style=for-the-badge&logo=openai&logoColor=10b981" />
-  <img src="https://img.shields.io/badge/Workflow-Claude%20Code%20%26%20Gemini-0f172a?style=for-the-badge&logo=anthropic&logoColor=f59e0b" />
+  <a href="https://www.youtube.com/@yogeshbmehta"><img src="https://img.shields.io/badge/YouTube-@yogeshbmehta-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-0f172a?style=flat-square&logo=googlemaps&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20MCP-0f172a?style=flat-square&logo=openai&logoColor=10b981" />
+  <img src="https://img.shields.io/badge/Workflow-Claude%20Code%20%26%20Gemini-0f172a?style=flat-square&logo=anthropic&logoColor=f59e0b" />
 </p>
 
 </div>
@@ -23,6 +28,7 @@
 
 ### 🚀 About Me
 
+- 🌐 **Executive Research & Thought Leadership**: Strategist & Author at **[yogesh-b-mehta.vercel.app](https://yogesh-b-mehta.vercel.app/)**, distilling 25+ years of operational leadership into deep-dive analyses on airline advance float mechanics, unearned ticket revenue liquidity, and payment margin sovereignty.
 - 🤖 **Autonomous Multi-Agent Architectures**: Engineering resilient multi-agent networks, dynamic tool routing, and self-healing LLM pipelines using **Claude Code**, **Google Gemini**, and **MCP (Model Context Protocol)**.
 - 🔍 **Multimodal Forensic Intelligence**: Creator of **Veritas Forensics**, bridging unstructured vision/NLP artifacts (Invoices, WhatsApp communication, override logs) with deterministic ERP banking ledgers for cross-modal fraud detection.
 - ⚡ **Domain Skills Engine**: Orchestrating **900+ modular agent skills** covering autonomous coding, API verification, automated governance, security auditing, and UX engineering.
@@ -133,14 +139,16 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yogesh--b--mehta.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yogesh-b-mehta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh%20B.%20Mehta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshbmehta/)
 [![Medium](https://img.shields.io/badge/Medium-@yogeshbmehta-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yogeshbmehta.medium.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-@yogeshbmehta-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yogeshbmehta)
 [![Email](https://img.shields.io/badge/Email-yogeshbmehta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshbmehta@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yogichennai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogichennai)
 
 <br/>
 
-> 💡 **Open for Collaboration**: Interested in architecting autonomous AI agent workflows, MCP server integrations, or multimodal forensic intelligence? Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/yogeshbmehta/)** or **[Email](mailto:yogeshbmehta@gmail.com)**!
+> 💡 **Open for Collaboration**: Interested in architecting autonomous AI agent workflows, MCP server integrations, travel-tech dynamic pricing engines, or multimodal forensic intelligence? Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/yogeshbmehta/)**, explore research on **[Portfolio](https://yogesh-b-mehta.vercel.app/)**, or send an **[Email](mailto:yogeshbmehta@gmail.com)**!
 
 </div>
 
